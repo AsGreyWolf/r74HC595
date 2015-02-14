@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map for r74HC595
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+r74HC595	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup	KEYWORD2
+send	KEYWORD2
+write	KEYWORD2
+autoWrite	KEYWORD2
+data	KEYWORD2
